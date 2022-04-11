@@ -22,4 +22,4 @@ And will use a Machine Learning technique to build intuition about Individuals
  * `Logistic Regression Model `
 
 ## License
-**Investigate TMDb Movie Data"** is released under [MIT License](https://choosealicense.com/licenses/mit/).
+**Analyze AB Test Results** is released under [MIT License](https://choosealicense.com/licenses/mit/).
