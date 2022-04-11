@@ -1,5 +1,12 @@
 # A/B tests
+---
+Github: [Analyze A/B Test Results](https://github.com/bassamfaramawi/Analyze-AB-Test-Results)
 
+Kaggle: [Analyze A/B Test Results](https://www.kaggle.com/tiodaronzi3/analyze-a-b-test-results)
+
+Auther: Bassam Faramawi
+
+---
 A/B tests are very commonly performed by data analysts and data scientists.  It is important to get some practice working with the difficulties of these 
 
 
